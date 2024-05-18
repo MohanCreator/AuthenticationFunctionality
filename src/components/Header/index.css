@@ -1,0 +1,10 @@
+.header-container {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.link {
+  margin: 30px;
+}
